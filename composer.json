@@ -1,0 +1,14 @@
+{
+    "name": "openssl/php-rsa",
+    "description": "Rsa asymmetric encryption",
+    "type": "library",
+    "require": {
+        "openssl/php-rsa": "1.0.0"
+    },
+    "authors": [
+        {
+            "name": "xihongwei",
+            "email": "1014573565@qq.com"
+        }
+    ]
+}
